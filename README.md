@@ -4,6 +4,4 @@ Cours sur les outils versioning
 Bonjour
 Ceci est le premier commit !
 
-Commeeeeeeeeeent
-
-ouais super ta life
+Comeeeeeeeeeent
